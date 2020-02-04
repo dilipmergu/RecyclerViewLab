@@ -19,15 +19,15 @@ public class Sport {
         this.mTitle = mTitle;
     }
 
-    public String getMimageURL() {
+    public String getImageUrl() {
         return mimageURL;
     }
 
-    public void setMimageURL(String mimageURL) {
+    public void setimageURL(String mimageURL) {
         this.mimageURL = mimageURL;
     }
 
-    public String getmInfo() {
+    public String getInfo() {
         return mInfo;
     }
 
@@ -35,7 +35,7 @@ public class Sport {
         this.mInfo = mInfo;
     }
 
-    public String getMsubTitle() {
+    public String getSubTitle() {
         return msubTitle;
     }
 
@@ -43,7 +43,7 @@ public class Sport {
         this.msubTitle = msubTitle;
     }
 
-    public String getmTitle() {
+    public String getTitle() {
         return mTitle;
     }
 
